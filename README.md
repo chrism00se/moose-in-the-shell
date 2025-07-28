@@ -1,6 +1,6 @@
 # Cybersecurity Portfolio
 
-Welcome! I'm **[Your Name]**, a passionate cybersecurity student dedicated to continuous learning and hands-on practice. This repository serves as a showcase of my work, including write-ups, scripts, and lab exercises, as I explore different areas of cybersecurity.
+Welcome! I'm **Moose**, a passionate cybersecurity student dedicated to continuous learning and hands-on practice. This repository serves as a showcase of my work, including write-ups, scripts, and lab exercises, as I explore different areas of cybersecurity.
 
 ## 📁 Repository Structure
 
