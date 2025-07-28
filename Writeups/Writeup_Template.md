@@ -21,6 +21,7 @@ Outline your initial thoughts, reconnaissance steps, and planned methodologies.
 
 3. **Step 3:**  
    - Results and findings.
+   - Flag: FLAG[XXXXXXXXX]
 
 *(Repeat as necessary for complex challenges.)*
 
